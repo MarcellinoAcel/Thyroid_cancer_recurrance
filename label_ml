@@ -1,0 +1,63 @@
+Gender
+Female                  0
+Male                    1
+
+Hx Radiothreapy
+No                      0
+YEs                     1
+
+Adenopathy (Adanya keterlibatan kelenjar getah bening)
+Bilateral               0
+Extensive               1
+Left                    2
+No                      3
+Posterior               4
+Right                   5
+
+Pathology
+Follicular              0
+Hurthel                 1
+Micropapillary          2
+Papillary               3
+
+Focality
+Uni-Focal               0
+Multi-Focal             1
+
+Risk
+High                    0
+Intermediete            1
+Low                     2
+
+Lymph node classification
+N0                      0 
+N1b                     1
+N1a                     2
+
+Tumor classification
+T1a                     0
+T1b                     1
+T2                      2
+T3a                     3
+T3b                     4
+T4a                     5
+T4b                     6
+
+Metastasis classification
+M0                      0
+M1                      1
+
+stage
+I                       0
+II                      1
+III                     2
+IVb                     4
+IVa                     3
+
+response
+Biochemical Incomplete  0
+Excellent               1
+Indeterminate           2
+Structural Incomplete   3
+
+
